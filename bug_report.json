@@ -1,0 +1,12 @@
+{
+  "id":"1.1.1"
+  "reported by":"VL",
+  "topic":"1st bug in git editor config, always need to rewrite name of author",
+  "priority":"minor",
+  "steps to reproduce":"git commit and then git push some new files to git repo and u need to rewrite author of the commits",
+  "actual resolt":"not verified on github.com repo",
+  "expected resolt":"verified commits on github.com repo",
+  "browser":"chrome",
+  
+
+}
